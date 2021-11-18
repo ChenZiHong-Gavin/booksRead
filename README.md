@@ -1,2 +1,2 @@
 # booksRead
-books I have already readed
+books I have already read
